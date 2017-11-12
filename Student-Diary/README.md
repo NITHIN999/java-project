@@ -1,3 +1,13 @@
 # java-project
 
-This is a java based project for creating a student diary for storing everything that happens in the 4 years of a students life in campus to be used by faculty.
+## Student-Diary
+
+Here, you can find all the java codes in the 'src' folder and all the class files are found in 'bin' folder.
+
+#### How to run
+
+Just clone the whole folder into your local machine and open it in Eclipse (preferred).
+
+Run the 'studentDiary' package as a Java Application.
+
+Select the type of Login and proceed to the project.
