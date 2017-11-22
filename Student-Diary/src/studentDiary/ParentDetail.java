@@ -45,14 +45,14 @@ public class ParentDetail  extends PersonalDetail  implements Serializable {
 			pPhno = sc.nextLine();
 			if(pPhno.length() != 10) throw new InvalidPhoneNumberException();
 			 
-	}catch(InvalidPhoneNumberException e) {
-		System.out.println(e);
-		System.exit(0);
+		}catch(InvalidPhoneNumberException e) {
+			System.out.println(e);
+			System.exit(0);
 			
-	}catch(InvalidEmailException n) {
-		System.out.println(n);
-		System.exit(0);
-	}
+		}catch(InvalidEmailException n) {
+			System.out.println(n);
+			System.exit(0);
+		}
 	}
 
 	public void printParentDetails() {
