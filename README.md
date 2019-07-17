@@ -4,7 +4,7 @@
 
 The title of this project is "Student Diary"
 
-I made this project this projrct as a part of my Object Oriented Programming with Java course in my Semester 3.
+I made this project this project as a part of my Object Oriented Programming with Java course in my Semester 3.
 
 This project is a Java application which is similar to that of the AUMS - Amrita Unviversity Management System (but of a smaller version, only for Students.)
 
